@@ -1,0 +1,4 @@
+name: WDPEExamplePlugin
+author: alvin0319
+main: org.example.plugin.Loader
+version: 1.0.0
